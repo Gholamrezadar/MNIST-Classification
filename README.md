@@ -1,7 +1,10 @@
 # MNIST Classification
-MLP with 512 hidden units, 2 hidden layers, and ReLU activation function. 
-
+## MLP
 acc: 0.98
+![mlp](mlp_loss.png)
+![mlp_acc](mlp_accuracy.png)
 
-CNN:
+## CNN
 acc: 0.99
+![cnn](cnn_loss.png)
+![cnn_acc](cnn_accuracy.png)
